@@ -1,3 +1,10 @@
+# Docker Image
+https://hub.docker.com/r/jsdev2120/node_login
+
+
+# Docker Pull Command
+docker pull jsdev2120/node_login
+
 # Node.js & Passport Login
 
 This is a user login and registration app using Node.js, Express, Passport, Mongoose, EJS and some other packages.
